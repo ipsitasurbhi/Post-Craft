@@ -18,6 +18,9 @@ Post Craft is an innovative LinkedIn post generator designed to help users creat
 - **Langchain** 🔗: A framework for developing and managing language models, ensuring the posts are contextually rich and relevant.
 - **Groq** ⚡: Utilized to produce efficient posts with high-quality content, powered by state-of-the-art language models.
 
+### Screenshot 
+   ![Screenshot 2024-12-04 013924](https://github.com/user-attachments/assets/deff90dd-7a6f-4012-b8d5-228a84e36ce8)
+
 ### Getting Started 🚀
 
 1. Clone the repository:
